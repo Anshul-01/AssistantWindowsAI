@@ -1,0 +1,13 @@
+Required Modules:
+
+1. pyttsx3
+2. SpeechRecognition
+3. wikipedia
+4. webbrowser
+5. pyfirmata
+6. pyaudio
+7. pywhatkit
+8. flask
+9. time 
+10. calendar
+11. datetime
